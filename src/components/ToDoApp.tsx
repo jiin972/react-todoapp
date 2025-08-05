@@ -1,5 +1,5 @@
 import { useRecoilState, useRecoilValue } from "recoil";
-import CreateToDo from "./CreatToDo";
+import CreateToDo from "./CreateToDo";
 import { Categories, categoryState, toDoSelector, toDosState } from "../atoms";
 import ToDo from "./ToDo";
 
